@@ -1,0 +1,12 @@
+-main Headish
+--each
+
+-neko bin/headish.n
+-cmd nekotools boot bin/headish.n
+
+# --next
+# -python bin/headish.py
+
+# --next
+# -java bin/java
+
